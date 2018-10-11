@@ -1,5 +1,5 @@
 <?php
-/*Questo file è stato realizzato per il corso base di git da Mattia e Lucio*/
+/*File realizzato appositamente per il corso di git hub base da Lucio*/
 
 /*addizione*/
 
