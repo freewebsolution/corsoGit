@@ -1,4 +1,5 @@
 <?php
+/*Questo file è stato realizzato per il corso base di git*/
 
 /*addizione*/
 
